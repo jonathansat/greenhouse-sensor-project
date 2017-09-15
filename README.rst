@@ -8,7 +8,8 @@ To run:
 
         ./main.py
 
-### TODO
+TODO
+----
 In order of increasing difficulty and sensibly ordered to incrementally build things:
 
 * Create more kinds of sensors representative of what you'd find in a small/medium scale commercial greenhouse
